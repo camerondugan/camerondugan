@@ -1,7 +1,6 @@
 ### GitHub Stats:
 
 [![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=camerondugan&layout=compact&theme=dark&langs_count=8&size_wieght=0.1&count_weight=0.5)]()
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camerondugan&show_icons=true&theme=dark)]()
 <!-- --- -->
 
 <!--
